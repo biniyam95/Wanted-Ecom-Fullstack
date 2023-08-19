@@ -1,0 +1,138 @@
+[
+  {
+    "totalPrice": 50,
+    "tax": 5,
+    "shippingCharge":5,
+    "grandTotal": 60,
+    
+    "orderedItems" :[
+      {
+        "productId": "",
+        "name":"SanDisk Ultra 128GB SDXC UHS-I Memory Card",
+        "price": 10,
+        "image" :"", 
+        "quantity": 5
+      }
+    ],
+    "addressInfo" :{
+      "street":"3971 Oak Street",
+      "city":"Los Angeles",
+      "phone": "123456789",
+      "zip" :"90001",
+      "country" :"United States"
+    },
+    "transactionInfo":{
+      "id":"",
+      "status":"succeeded"
+    }
+  },
+
+  {
+    "totalPrice": 100,
+    "tax": 10,
+    "shippingCharge":10,
+    "grandTotal": 120,
+    
+    "orderedItems" :[
+      {
+        "productId": "",
+        "name":"CAN USB FD Adapter (GC-CAN-USB-FD)",
+        "price": 25,
+        "image" :"", 
+        "quantity": 4
+      }
+    ],
+    "addressInfo" :{
+      "street":"456 Elm Avenue",
+      "city":"Toronto",
+      "phone": "123456787",
+      "zip" :"28001",
+      "country" :"Canada"
+    }
+  },
+
+  {
+    "totalPrice": 90,
+    "tax": 15,
+    "shippingCharge":15,
+    "grandTotal": 120,
+    
+    "orderedItems" :[
+      {
+        "productId": "",
+        "name":"Apple AirPods with Charging Case",
+        "price": 20,
+        "image" :"", 
+        "quantity": 3
+      }
+    ],
+    "addressInfo" :{
+      "street":"774 Via Roma",
+      "city":"Rome",
+      "phone": "123456785",
+      "zip" :"10178",
+      "country" :"Germany"
+    }
+    
+  },
+  
+  {
+    "totalPrice": 150,
+    "tax": 15,
+    "shippingCharge":15,
+    "grandTotal": 180,
+    
+    "orderedItems" :[
+      {
+        "productId": "",
+        "name":"Nikon D3500 W/ AF-P DX NIKKOR",
+        "price": 150,
+        "image" :"", 
+        "quantity": 1
+      }
+    ],
+    "addressInfo" :{
+      "street":"654 Sakura Dori",
+      "city" :"kyoto",
+      "phone": "123456784",
+      "zip"  :"10001",
+      "country" :"japan"
+    },
+    "transactionInfo":{
+      "id":"",
+      "status":"succeeded"
+    }
+  },
+  {
+    "totalPrice": 150,
+    "tax": 15,
+    "shippingCharge":15,
+    "grandTotal": 180,
+    
+    "orderedItems" :[
+      {
+        "productId": "",
+        "name":"Nikon D3500 W/ AF-P DX NIKKOR",
+        "price": 150,
+        "image" :"", 
+        "quantity": 1
+      }
+    ],
+    "addressInfo" :{
+      "street":"987 Rosenstrasse",
+      "city" :"munich",
+      "phone": "923456751",
+      "zip"  :"10001",
+      "country" :"Germany"
+    },
+    "transactionInfo":{
+      "id":"",
+      "status":"succeeded"
+    }
+  }
+  
+
+  
+
+
+]

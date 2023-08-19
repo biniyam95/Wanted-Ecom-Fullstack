@@ -1,0 +1,32 @@
+[
+  {
+    "name": "john",
+    "email": "john@gmail.com",
+    "password":"1234",
+    "role": "user"
+  },
+  {
+    "name": "tom",
+    "email": "tom@gmail.com",
+    "password":"1234",
+    "role": "user"
+  },
+  {
+    "name": "cartman",
+    "email": "cartman@gmail.com",
+    "password":"1234",
+    "role": "user"
+  },
+  {
+    "name": "kenny",
+    "email": "kenny@gmail.com",
+    "password":"1234",
+    "role": "user"
+  },
+  {
+    "name": "MrBeast",
+    "email": "mrbeast@gmail.com",
+    "password":"1234",
+    "role": "admin"
+  }
+]
